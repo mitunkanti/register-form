@@ -33,14 +33,6 @@
 	margin-bottom: 30px;
 }
 
-.contact-left button:hover{
-	background: gray;
-}
-
-.form-btn button:hover{
-	background: red;
-}
-
 .contact-left p{
 	margin-bottom: 20px;
 	color: white;
@@ -60,6 +52,10 @@
     border: none;
     font-weight: 800;
     margin-top: 20px;
+}
+
+.contact-left button:hover{
+	background: red;
 }
 
 
@@ -137,4 +133,8 @@ label {
     margin-top: 20px;
     color: white;
     background: #2E7EB5;
+}
+
+.form-btn button:hover{
+	background: red;
 }
